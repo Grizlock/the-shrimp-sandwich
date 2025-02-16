@@ -1,0 +1,29 @@
+{
+  "editorLastVersion": "0.6.21a",
+  "playerSettings": {},
+  "globalSettings": {
+    "safetyProfile": "off"
+  },
+  "blockedList": {},
+  "serverSettings": {
+    "108.230.65.44": {}
+  },
+  "editorSelectMouseButton": 0.0,
+  "titleScreenButton": true,
+  "friendSettings": {},
+  "keybinds": {},
+  "editorDragMouseButton": -1.0,
+  "editorMenuMouseButton": 1.0,
+  "editorRotateMouseButton": 2.0,
+  "safetyProfiles": {},
+  "editorRecentProjects": [
+    "C:\\Users\\Grizl\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\player_models\\Ribbits.cpmproject",
+    "C:\\Users\\Grizl\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\player_models\\Piglin.cpmproject",
+    "C:\\Users\\Grizl\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\player_models\\fior3.cpmproject",
+    "C:\\Users\\Grizl\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\player_models\\hatsunemikou.cpm.cpmproject",
+    "C:\\Users\\Grizl\\AppData\\Roaming\\PrismLauncher\\instances\\1.20.1\\minecraft\\player_models\\GoblinM (Geraldo, o Atrapalhado).cpmproject"
+  ],
+  "friendList": {},
+  "renderNames": false,
+  "selectedModel": "CAT.cpmmodel"
+}
