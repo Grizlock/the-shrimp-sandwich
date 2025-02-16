@@ -1,0 +1,16 @@
+filename = 'everythingcopper-1.20.1-2.3.4.jar'
+name = 'Everything is Copper'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd0341b1f26bbaeb79e82c2569fc2789c76a9b907a7dff25834c4004ce0233e03cfaafa0941c5f07ae4a08d2f0fc1cabc16553f501d6600bc1369f53fef6f42d7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/73MCa9Po/versions/ijrOeHx2/everythingcopper-1.20.1-2.3.4.jar'
+
+[update.modrinth]
+mod-id = '73MCa9Po'
+version = 'ijrOeHx2'

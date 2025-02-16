@@ -1,0 +1,168 @@
+{
+  "favorites": [
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:oak_sapling",
+        "amount": 59
+      }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:andesite",
+        "amount": 31
+      }
+    },
+    {
+      "stack": "item:chipped:carpenters_table"
+    },
+    {
+      "stack": "item:simplyswords:whisperwind{Damage:0,nether_power:\"no_socket\",runic_power:\"no_socket\"}"
+    },
+    {
+      "stack": "item:simplyswords:whisperwind{Damage:4,nether_power:\"no_socket\",runic_power:\"no_socket\"}"
+    },
+    {
+      "stack": "item:create:mechanical_press"
+    },
+    {
+      "stack": "item:simplehats:gnome"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "botania:manasteel_ingot",
+        "amount": 5
+      }
+    }
+  ],
+  "lookup_history": [
+    "item:copycats:copycat_trapdoor",
+    "item:minecraft:compass",
+    "item:aquaculture:light_hook",
+    "item:aquaculture:iron_hook",
+    "item:aquaculture:gold_hook",
+    "item:aquaculture:diamond_hook",
+    "item:aquaculture:neptunium_nugget",
+    "item:aquaculture:neptunium_ingot",
+    "#item:forge:plates/gold",
+    "item:create:wrench",
+    "item:create:andesite_casing",
+    "item:fantasyfurniture:furniture_station",
+    "item:fantasyfurniture:decorations/bone_wither_skull_blossoms",
+    "item:fantasyfurniture:nordic/desk_left",
+    "item:fantasyfurniture:bone/skeleton/wall_light",
+    {
+      "type": "item",
+      "id": "create:shaft",
+      "amount": 6
+    },
+    "item:bloomingnature:swamp_cypress_planks",
+    "item:createbb:blue_stuff_tray",
+    "item:simplyswords:harbinger{Damage:0}",
+    "item:relics:infinity_ham{abilities:{autophagy:{points:0,stats:{feed:1.874d}},infusion:{points:0,stats:{duration:3.10267d}}},charge:0,leveling:{experience:28},pieces:10}",
+    {
+      "type": "item",
+      "id": "minecraft:leather",
+      "amount": 2
+    },
+    "item:minecraft:ender_eye",
+    "item:minecraft:amethyst_shard",
+    "item:chipped:mason_table",
+    "item:create:water_wheel",
+    "item:create:large_water_wheel",
+    "item:createoreexcavation:vein_finder",
+    "#item:forge:plates/iron",
+    "item:createdeco:decal_skull",
+    "item:estrogen:estrogen_pill",
+    "item:estrogen:thigh_highs{specialStyle:\"estrogen:non_binary\"}",
+    "item:chipped:carpenters_table",
+    "item:minecraft:wooden_axe{Damage:0}",
+    {
+      "type": "item",
+      "id": "minecraft:oak_sapling",
+      "amount": 59
+    },
+    "item:minecraft:diorite",
+    {
+      "type": "item",
+      "id": "minecraft:andesite",
+      "amount": 31
+    },
+    "item:chipped:glassblower",
+    "item:chipped:botanist_workbench",
+    "item:alexscaves:cave_tablet{CaveBiome:\"alexscaves:toxic_caves\"}",
+    "item:alexscaves:cave_book",
+    {
+      "type": "item",
+      "id": "minecraft:glass",
+      "amount": 6
+    },
+    "item:beachparty:cocoa_cocktail",
+    "item:create:andesite_alloy",
+    "item:minecraft:bell",
+    {
+      "type": "item",
+      "id": "sushigocrafting:avocado",
+      "amount": 2
+    },
+    "item:simplyswords:diamond_claymore{Damage:24,Enchantments:[{id:\"deeperdarker:catalysis\",lvl:3s}]}",
+    "item:ars_elemental:everfull_urn",
+    {
+      "type": "item",
+      "id": "croptopia:roe",
+      "amount": 14
+    },
+    "item:farm_and_charm:onion",
+    "item:farmersdelight:onion",
+    "item:createoreexcavation:drilling_machine"
+  ],
+  "craft_history": [
+    "minecraft:anvil",
+    "minecraft:iron_block",
+    "quark:building/crafting/furnaces/cobblestone_furnace",
+    "twigs:bone_meal_from_seashells",
+    "minecraft:shears",
+    "minecraft:enchanting_table",
+    "minecraft:diamond_pickaxe",
+    "minecraft:red_dye_from_poppy",
+    "minecraft:iron_pickaxe",
+    "quark:building/crafting/chests/oak_chest",
+    "minecraft:oak_planks",
+    "delightful:cantaloupe_seeds",
+    "delightful:cantaloupe_slice",
+    "quark:tweaks/crafting/utility/bent/bread",
+    "minecraft:spyglass",
+    "create:crafting/kinetics/water_wheel",
+    "minecraft:torch",
+    "chipped:benches/carpenters_table",
+    "minecraft:crafting_table",
+    "minecraft:wooden_axe",
+    "minecraft:stick",
+    "alexscaves:cave_book",
+    "minecraft:gold_nugget",
+    "simplyswords:diamond_claymore",
+    "minecraft:iron_nugget",
+    "minecraft:bone_meal",
+    "create:crafting/kinetics/large_water_wheel",
+    "create:crafting/kinetics/shaft",
+    "create:crafting/materials/andesite_alloy",
+    "croptopia:avocado_sapling",
+    "minecraft:bread",
+    "minecraft:wheat",
+    "minecraft:bucket",
+    "minecraft:iron_sword",
+    "quark:tweaks/crafting/utility/tools/stone_axe",
+    "quark:tweaks/crafting/utility/tools/stone_pickaxe",
+    "minecraft:wooden_pickaxe",
+    "minecraft:dark_oak_planks"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

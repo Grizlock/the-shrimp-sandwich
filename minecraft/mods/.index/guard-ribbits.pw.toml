@@ -1,0 +1,16 @@
+filename = 'GuardRibbits-1.20.1-Forge-1.0.6.jar'
+name = 'Guard Ribbits'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7c2e01eec4b3dded9da12b8f0dc661fd03867816'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5997644
+project-id = 1148985

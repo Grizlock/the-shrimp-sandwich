@@ -1,0 +1,16 @@
+filename = 'undergardendelight-1.1.1-forge-1.20.1.jar'
+name = 'Undergarden Delight'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'f8d9be806a0ef1edd0fd3668435d98b7abeb4707a9578a0583377c7271c40a31ab51ae444155e8d411b8dba8eba0103eef385e5cc24336b867ed9700a1e18372'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/H340jsJv/versions/VXODIr6q/undergardendelight-1.1.1-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'H340jsJv'
+version = 'VXODIr6q'
